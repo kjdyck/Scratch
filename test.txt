@@ -1,3 +1,4 @@
 This is some text.
 Adding some text in Scratch.
 And some more text added for Scratch2.
+This text was added on a branch.
